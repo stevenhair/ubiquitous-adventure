@@ -1,5 +1,5 @@
 # ubiquitous-adventure
-Reproduction of a Rascal bug
+Reproduction of a Rascal bug: https://github.com/guidesmiths/rascal/issues/153
 
 ## The bug
 
