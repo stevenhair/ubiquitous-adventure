@@ -1,0 +1,29 @@
+{
+  "name": "ubiquitous-adventure",
+  "version": "1.0.0",
+  "description": "Reproduction of a Rascal bug",
+  "main": "index.js",
+  "scripts": {
+    "start": "./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenhair/ubiquitous-adventure.git"
+  },
+  "keywords": [
+    "rabbitmq",
+    "rascal"
+  ],
+  "author": "Steve Hair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevenhair/ubiquitous-adventure/issues"
+  },
+  "homepage": "https://github.com/stevenhair/ubiquitous-adventure#readme",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "rascal": "^13.0.2"
+  },
+  "devDependencies": {}
+}
